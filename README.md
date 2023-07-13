@@ -28,8 +28,7 @@ After that, navigate to the directory where you've cloned the project and open i
 To run the project, open **src/java/com.example.desafioapi/DesafioApiApplication.java** file and click the run button or use the shortcut Shift+F10.
 ## Technologies 🛠️
 
-|   Technology    |  Version  |
-|:--------------:|:---------:|
-|  Tecnologia 1  |    1.0    |
-|  Tecnologia 2  |    2.3    |
-|  Tecnologia 3  |    0.5    |
+|      Technology      | Version |
+|:--------------------:|:-------:|
+| SpringFramework Boot |  3.0.4  |
+|         Java         |   19    |
