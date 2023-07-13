@@ -2,7 +2,7 @@
 
 ## About 📘
 
-![Gif-1.gif](../../../../Videos/Gifcam/Gif-1.gif)
+![Gif-1](https://github.com/KaueSanchesG/Desafio-api/assets/95658722/b13f1d83-2b8c-4757-bd82-54846d462370)
 
 This project was a challenge from my college to improve our knowledge about annotations and how they work with databases.
 
